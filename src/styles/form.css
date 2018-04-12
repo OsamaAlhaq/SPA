@@ -1,0 +1,21 @@
+.inputs input {
+    margin: 1em 1em 1em 0;
+    padding: 0.2em 1em 0.2em 1em;
+}
+
+.gender {
+    display: flex;
+    align-items: center;
+}
+
+.gender p {
+    padding: 0.5em;
+}
+
+ p {
+    margin: 0 !important;
+}
+
+.contact-form {
+    padding: 1em;
+}

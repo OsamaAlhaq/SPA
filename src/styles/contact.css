@@ -1,0 +1,8 @@
+.contact-row {
+    padding: 0.5em;
+}
+
+.contact-button {
+    display: flex;
+    justify-content: center;
+}
