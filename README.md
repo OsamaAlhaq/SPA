@@ -1,7 +1,7 @@
 ### READ ME
 
-### OSAMA SPA
+## OSAMA SPA
 
-* Steps
+# Steps
 * npm i
 * npm start
